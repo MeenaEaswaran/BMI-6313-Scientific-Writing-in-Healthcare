@@ -80,4 +80,4 @@ If you use the tools or dataset mentioned in this repository in your research, p
 
 ---
 
-For questions or issues, please contact the repository maintainer. Refer to the relavant [Poster](Assets/BMI6313_Final_Poster_Meena_Easwaran.pdf) along with the final class paper more for detailed information and results.
+For questions or issues, please contact the repository maintainer. Refer to the relavant [Poster](Assets/BMI6313_Final_Poster_Meena_Easwaran.pdf) along with the final class paper (via QR code) for detailed information and results.
