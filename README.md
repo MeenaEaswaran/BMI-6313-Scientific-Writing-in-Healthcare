@@ -12,7 +12,9 @@ The mouse microarray dataset with the the accession ID **GSE161869** was accesse
 - Data retrieval was conducted using the **GEOquery** R package.
 - **Sample groups:** Control, IQOS-exposed, and Cigarette Smoke (CS)-exposed samples (n=3 per group).
 - Subsequent analyses were performed on iDEP versions [0.96](http://bioinformatics.sdstate.edu/idep96/) and [2.01](http://bioinformatics.sdstate.edu/idep/).
+
 ---
+
 ### 2. Exploratory Data Analysis (EDA)
 - **Tools used:** iDEP version 0.96
 - **Methods:**
@@ -22,8 +24,8 @@ The mouse microarray dataset with the the accession ID **GSE161869** was accesse
 
 **Figures:**
 - [Heatmap](Assets/heatmap_EDA_globalgeneexpression.png) 
-- [PCA Plot](path/to/pca_plot.png)
-- [Quantile Normalization plot](path/to/pca_plot.png)
+- [PCA Plot](Assets/PCA_EDA.png)
+- [Quantile Normalization plot](Assets/transformeddata_EDA.png)
 
 ---
 
@@ -38,10 +40,14 @@ The mouse microarray dataset with the the accession ID **GSE161869** was accesse
   - GO Biological Process (BP) and KEGG pathway enrichments using Gene Set Enrichment Analysis (GSEA).
 
 **Figures:**
-- [DEG Bar Plot](path/to/deg_bar_plot.png)
-- [Pathway Enrichment Heatmap](path/to/pathway_heatmap.png)
+- [DEG Bar Plot](Assets/DEG_limma.png)
+- [IQOS-exposed vs. Control Volcano Plot](Assets/volcanoplot_IQOS_control.png)
+- [IQOS-exposed vs. CS-exposed Volcano Plot](Assets/volcanoplot_IQOS_CS.png)
+- [DEG Venn Diagram](Assets/Venn_DEG.png)
+- [Gene Ontology Biological Process Enrichment Tree plot](Assets/GOBP.png)
+- [KEGG Enrichment Tables](Assets/KEGG_enrichments_tables.pdf)
 
----
+  ---
 
 ### 4. Network Analysis
 - **Tools used:**
@@ -53,8 +59,9 @@ The mouse microarray dataset with the the accession ID **GSE161869** was accesse
 - Functional enrichment for gene co-expression modules was conducted using GO BP and KEGG analyses.
 
 **Figures:**
-- [Gene Co-Expression Network](path/to/gene_network.png)
-- [StringDB Network](path/to/stringdb_network.png)
+- [WGCNA Coexpressed Gene Modules and Enrichment](Assets/WGCNA_coexpressed_gene_modules_and_enrichment.png)
+- [Apoptosis StringDB PPI](Assets/apoptosis_onlyterms_38_stringDB.png)
+- [Cytokine Production StringDB PPI](Assets/cytokine_production_onlyterms_28_stringDB.png)
 
 ---
 
@@ -73,4 +80,4 @@ If you use the tools or dataset mentioned in this repository in your research, p
 
 ---
 
-For questions or issues, please contact the repository maintainer. Refer to the relavant [Poster](path/to/gene_network.png) along with the final class paper more for detailed information and results.
+For questions or issues, please contact the repository maintainer. Refer to the relavant [Poster](Assets/BMI6313_Final_Poster_Meena_Easwaran.pdf) along with the final class paper more for detailed information and results.
