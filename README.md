@@ -1,6 +1,6 @@
 # BMI 6313: Scientific Writing in Healthcare
 
-This repository contains details about the **bioinformatics project performed using [iDEP] (http://bioinformatics.sdstate.edu/idep/)** as part of the BMI 6313: Scientific Writing in Healthcare course. The study, titled **"Long-term IQOS exposure modulates apoptosis and cytokine signaling pathways: Genomic insights from mouse lungs"**, analyzed the genomic effects of IQOS exposure on mouse lungs using public microarray dataset obtained from NCBI GEO.
+This repository contains details about the **bioinformatics project performed using [iDEP](http://bioinformatics.sdstate.edu/idep/)** as part of the BMI 6313: Scientific Writing in Healthcare course. The study, titled **"Long-term IQOS exposure modulates apoptosis and cytokine signaling pathways: Genomic insights from mouse lungs"**, analyzed the genomic effects of IQOS exposure on mouse lungs using public microarray dataset obtained from NCBI GEO.
 
 ---
 # Long-term IQOS Exposure Modulates Apoptosis and Cytokine Signaling Pathways: Genomic Insights from Mouse Lungs
