@@ -81,3 +81,5 @@ If you use the tools or dataset mentioned in this repository in your research, p
 ---
 
 For questions or issues, please contact the repository maintainer. Refer to the relavant [Poster](Assets/BMI6313_Final_Poster_Meena_Easwaran.pdf) along with the final course paper (via QR code) for detailed information and results.
+
+This repository is **solely for educational purposes and serves as a backup** for my graduate school assignments related to the **BMI 6313: Scientific Writing in Healthcare** course at McWilliams School of Biomedical Informatics at UTHealth Houston.
