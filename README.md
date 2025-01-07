@@ -21,7 +21,7 @@ The mouse microarray dataset with the the accession ID **GSE161869** was accesse
   - Quantile normalization of gene expression levels during data preprocessing.
 
 **Figures:**
-- [Heatmap](path/to/eda_heatmap.png)
+- [Heatmap](Assets/heatmap_EDA_globalgeneexpression.png) 
 - [PCA Plot](path/to/pca_plot.png)
 - [Quantile Normalization plot](path/to/pca_plot.png)
 
