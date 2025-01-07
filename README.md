@@ -8,7 +8,7 @@ This repository contains details about the **bioinformatics project performed us
 ## Project Overview
 
 ### 1. Data Retrieval
-The mouse microarray dataset with the the accession ID **GSE161869** was accessed through the **National Center for Biotechnology Information Gene Expression Omnibus (NCBI GEO)**. 
+The mouse microarray dataset with the the accession ID **[GSE161869](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE161869)** was accessed through the **National Center for Biotechnology Information Gene Expression Omnibus (NCBI GEO)**. 
 - Data retrieval was conducted using the **GEOquery** R package.
 - **Sample groups:** Control, IQOS-exposed, and Cigarette Smoke (CS)-exposed samples (n=3 per group).
 - Subsequent analyses were performed on iDEP versions [0.96](http://bioinformatics.sdstate.edu/idep96/) and [2.01](http://bioinformatics.sdstate.edu/idep/).
