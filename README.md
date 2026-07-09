@@ -23,9 +23,17 @@ The mouse microarray dataset with the the accession ID **[GSE161869](https://www
   - Quantile normalization of gene expression levels during data preprocessing.
 
 **Figures:**
-- [Heatmap](Assets/heatmap_EDA_globalgeneexpression.png) 
-- [PCA Plot](Assets/PCA_EDA.png)
-- [Quantile Normalization plot](Assets/transformeddata_EDA.png)
+## Heatmap
+
+![Heatmap](Assets/heatmap_EDA_globalgeneexpression.png)
+
+## PCA Plot
+
+![PCA Plot](Assets/PCA_EDA.png)
+
+## Quantile Normalization Plot
+
+![Quantile Normalization Plot](Assets/transformeddata_EDA.png)
 
 ---
 
@@ -40,12 +48,29 @@ The mouse microarray dataset with the the accession ID **[GSE161869](https://www
   - GO Biological Process (BP) and KEGG pathway enrichments using Gene Set Enrichment Analysis (GSEA).
 
 **Figures:**
-- [DEG Bar Plot](Assets/DEG_limma.png)
-- [IQOS-exposed vs. Control Volcano Plot](Assets/volcanoplot_IQOS_control.png)
-- [IQOS-exposed vs. CS-exposed Volcano Plot](Assets/volcanoplot_IQOS_CS.png)
-- [DEG Venn Diagram](Assets/Venn_DEG.png)
-- [Gene Ontology Biological Process Enrichment Tree plot](Assets/GOBP.png)
-- [KEGG Enrichment Tables](Assets/KEGG_enrichments_tables.pdf)
+## DEG Bar Plot
+
+![DEG Bar Plot](Assets/DEG_limma.png)
+
+## IQOS-Exposed vs. Control Volcano Plot
+
+![IQOS-Exposed vs. Control Volcano Plot](Assets/volcanoplot_IQOS_control.png)
+
+## IQOS-Exposed vs. CS-Exposed Volcano Plot
+
+![IQOS-Exposed vs. CS-Exposed Volcano Plot](Assets/volcanoplot_IQOS_CS.png)
+
+## DEG Venn Diagram
+
+![DEG Venn Diagram](Assets/Venn_DEG.png)
+
+## Gene Ontology Biological Process Enrichment Tree Plot
+
+![Gene Ontology Biological Process Enrichment Tree Plot](Assets/GOBP.png)
+
+## KEGG Enrichment Tables
+
+[View KEGG Enrichment Tables PDF](Assets/KEGG_enrichments_tables.pdf)
 
   ---
 
@@ -59,9 +84,17 @@ The mouse microarray dataset with the the accession ID **[GSE161869](https://www
 - Functional enrichment for gene co-expression modules was conducted using GO BP and KEGG analyses.
 
 **Figures:**
-- [WGCNA Coexpressed Gene Modules and Enrichment](Assets/WGCNA_coexpressed_gene_modules_and_enrichment.png)
-- [Apoptosis StringDB PPI](Assets/apoptosis_onlyterms_38_stringDB.png)
-- [Cytokine Production StringDB PPI](Assets/cytokine_production_onlyterms_28_stringDB.png)
+## WGCNA Coexpressed Gene Modules and Enrichment
+
+![WGCNA Coexpressed Gene Modules and Enrichment](Assets/WGCNA_coexpressed_gene_modules_and_enrichment.png)
+
+## Apoptosis STRING-DB PPI
+
+![Apoptosis STRING-DB PPI](Assets/apoptosis_onlyterms_38_stringDB.png)
+
+## Cytokine Production STRING-DB PPI
+
+![Cytokine Production STRING-DB PPI](Assets/cytokine_production_onlyterms_28_stringDB.png)
 
 ---
 
