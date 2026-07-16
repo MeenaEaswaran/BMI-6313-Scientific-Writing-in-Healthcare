@@ -16,7 +16,7 @@ The mouse microarray dataset with the the accession ID **[GSE161869](https://www
 ---
 
 ### 2. Exploratory Data Analysis (EDA)
-- **Tools used:** iDEP version 0.96
+- **Analytical Tools used:** iDEP version 0.96
 - **Methods:**
   - Hierarchical clustering (heatmap) with average linkage and correlation-based distance measures.
   - Principal Component Analysis (PCA) for dimensionality reduction.
@@ -38,7 +38,7 @@ The mouse microarray dataset with the the accession ID **[GSE161869](https://www
 ---
 
 ### 3. Differential Expression and Functional Enrichment Analysis
-- **Tools used:** iDEP version 0.96, limma R package.
+- **Analytical Tools and Packages used:** iDEP version 0.96, limma R package.
   1. IQOS-exposed vs. Control
   2. IQOS-exposed vs. CS-exposed
 - **Criteria for Differentially Expressed Genes (DEGs):**
@@ -75,7 +75,7 @@ The mouse microarray dataset with the the accession ID **[GSE161869](https://www
   ---
 
 ### 4. Network Analysis
-- **Tools used:**
+- **Analytical Tools used:**
   - **iDEP version 2.01** for Weighted Gene Co-Expression Network Analysis (WGCNA).
   - **StringDB version 12** for network visualization.
 - **Key Parameters:**
