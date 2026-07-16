@@ -25,15 +25,15 @@ The mouse microarray dataset with the the accession ID **[GSE161869](https://www
 **Figures:**
 ## Heatmap
 
-![Heatmap](Assets/heatmap_EDA_globalgeneexpression.png)
+<img src="Assets/heatmap_EDA_globalgeneexpression.png" alt="Heatmap" width="500">
 
 ## PCA Plot
 
-![PCA Plot](Assets/PCA_EDA.png)
+<img src="Assets/PCA_EDA.png" alt="PCA Plot" width="500">
 
 ## Quantile Normalization Plot
 
-![Quantile Normalization Plot](Assets/transformeddata_EDA.png)
+<img src="Assets/transformeddata_EDA.png" alt="Quantile Normalization Plot" width="500">
 
 ---
 
@@ -50,23 +50,23 @@ The mouse microarray dataset with the the accession ID **[GSE161869](https://www
 **Figures:**
 ## DEG Bar Plot
 
-![DEG Bar Plot](Assets/DEG_limma.png)
+<img src="Assets/DEG_limma.png" alt="DEG Bar Plot" width="500">
 
 ## IQOS-Exposed vs. Control Volcano Plot
 
-![IQOS-Exposed vs. Control Volcano Plot](Assets/volcanoplot_IQOS_control.png)
+<img src="Assets/volcanoplot_IQOS_control.png" alt="IQOS-Exposed vs. Control Volcano Plot" width="500">
 
 ## IQOS-Exposed vs. CS-Exposed Volcano Plot
 
-![IQOS-Exposed vs. CS-Exposed Volcano Plot](Assets/volcanoplot_IQOS_CS.png)
+<img src="Assets/volcanoplot_IQOS_CS.png" alt="IQOS-Exposed vs. CS-Exposed Volcano Plot" width="500">
 
 ## DEG Venn Diagram
 
-![DEG Venn Diagram](Assets/Venn_DEG.png)
+<img src="Assets/Venn_DEG.png" alt="DEG Venn Diagram" width="500">
 
 ## Gene Ontology Biological Process Enrichment Tree Plot
 
-![Gene Ontology Biological Process Enrichment Tree Plot](Assets/GOBP.png)
+<img src="Assets/GOBP.png" alt="Gene Ontology Biological Process Enrichment Tree Plot" width="500">
 
 ## KEGG Enrichment Tables
 
@@ -86,15 +86,15 @@ The mouse microarray dataset with the the accession ID **[GSE161869](https://www
 **Figures:**
 ## WGCNA Coexpressed Gene Modules and Enrichment
 
-![WGCNA Coexpressed Gene Modules and Enrichment](Assets/WGCNA_coexpressed_gene_modules_and_enrichment.png)
+<img src="Assets/WGCNA_coexpressed_gene_modules_and_enrichment.png" alt="WGCNA Coexpressed Gene Modules and Enrichment" width="500">
 
 ## Apoptosis STRING-DB PPI
 
-![Apoptosis STRING-DB PPI](Assets/apoptosis_onlyterms_38_stringDB.png)
+<img src="Assets/apoptosis_onlyterms_38_stringDB.png" alt="Apoptosis STRING-DB PPI" width="500">
 
 ## Cytokine Production STRING-DB PPI
 
-![Cytokine Production STRING-DB PPI](Assets/cytokine_production_onlyterms_28_stringDB.png)
+<img src="Assets/cytokine_production_onlyterms_28_stringDB.png" alt="Cytokine Production STRING-DB PPI" width="500">
 
 ---
 
